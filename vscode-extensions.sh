@@ -22,3 +22,4 @@ code --install-extension esbenp.prettier-vscode
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension yzane.markdown-pdf
 code --install-extension davidanson.vscode-markdownlint
+code --install-extension ms-iot.vscode-ros
