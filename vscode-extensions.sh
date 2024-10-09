@@ -1,8 +1,8 @@
-#!/bin/sh
+#!/bin/bash
 code --install-extension njpwerner.autodocstring
 code --install-extension alefragnani.bookmarks
 code --install-extension ms-vscode.cpptools-extension-pack
-code --install-extension xaver.clang-format
+code --install-extension xaver.clangd
 code --install-extension llvm-vs-code-extensions.vscode-clangd
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension usernamehw.errorlens
@@ -23,3 +23,5 @@ code --install-extension yzhang.markdown-all-in-one
 code --install-extension yzane.markdown-pdf
 code --install-extension davidanson.vscode-markdownlint
 code --install-extension ms-iot.vscode-ros
+code --install-extension ibm.output-colorizer
+code --install-extension oderwat.indent-rainbow
