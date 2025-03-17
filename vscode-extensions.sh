@@ -30,4 +30,5 @@ code --install-extension curlybrackets.markdown-word-count &
 code --install-extension mathworks.language-matlab &
 code --install-extension ibm.output-colorizer &
 code --install-extension ms-iot.vscode-ros &
-code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-azuretools.vscode-docker &
+code --install-extension kylinideteam.cmake-intellisence
