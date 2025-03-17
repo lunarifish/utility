@@ -18,4 +18,5 @@ code --install-extension spencerwmiles.vscode-task-buttons &
 code --install-extension gruntfuggly.todo-tree &
 code --install-extension wakatime.vscode-wakatime &
 code --install-extension ibm.output-colorizer &
-code --install-extension ms-iot.vscode-ros
+code --install-extension ms-iot.vscode-ros &
+code --install-extension kylinideteam.cmake-intellisence
