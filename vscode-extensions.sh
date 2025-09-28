@@ -29,6 +29,6 @@ code --install-extension wakatime.vscode-wakatime &
 code --install-extension curlybrackets.markdown-word-count &
 code --install-extension mathworks.language-matlab &
 code --install-extension ibm.output-colorizer &
-code --install-extension ms-iot.vscode-ros &
+code --install-extension ranch-hand-robotics.rde-pack &
 code --install-extension ms-azuretools.vscode-docker &
 code --install-extension kylinideteam.cmake-intellisence
