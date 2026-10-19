@@ -1,0 +1,32 @@
+{
+  "recommendations": [
+    "ibm.output-colorizer",
+    "oderwat.indent-rainbow",
+    "usernamehw.errorlens",
+
+    "johnny-zhao.oai-compatible-copilot",
+    "gruntfuggly.todo-tree",
+    "wakatime.vscode-wakatime",
+
+    "ms-vscode.cpptools-extension-pack",
+    "kylinideteam.cmake-intellisence",
+    "llvm-vs-code-extensions.vscode-clangd",
+
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "ms-python.debugpy",
+    "ms-python.vscode-python-envs",
+    "ms-python.autopep8",
+
+    "tatsy.vscode-3d-preview",
+
+    "esbenp.prettier-vscode",
+    "dan-c-underwood.arm",
+    "surajbarkale.ninja",
+    "peterj.proto",
+    "cschlosser.doxdocgen",
+    "github.vscode-github-actions",
+    "ms-vscode.makefile-tools",
+    "ranch-hand-robotics.rde-pack"
+  ]
+}
